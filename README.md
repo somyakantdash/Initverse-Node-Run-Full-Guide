@@ -51,7 +51,7 @@ PRESS CTRL+A+D (to run ur miner continuously)
 
 For VPS Only (to check ur miner again)
 ```
-screen -r Inichain
+screen -r init
 ```
 PRESS CTRL+A+D
 
