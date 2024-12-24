@@ -54,3 +54,8 @@ Don’t forget to leave it with CTRL+A+D
 
 Thank’s for reading
 
+
+Miner Dashboard : https://genesis-testnet.yatespool.com/
+
+Inichain explorer : https://genesis-testnet.iniscan.com/
+
