@@ -49,6 +49,10 @@ PRESS CTRL+A+D (to run ur miner continuously)
 
 🔶Check ur Rewards(put ur wallet address):- https://genesis-testnet.iniscan.com/
 
+![6296496737283588777](https://github.com/user-attachments/assets/d524dc75-70bd-4936-9c44-9db038d807b2)
+
+Each day ur mining rewards(withdrawable balance) transfer to ur wallet automatically at 1:00(±30min) pm IST near about
+
 For VPS Only (to check ur miner again)
 ```
 screen -r init
@@ -62,4 +66,7 @@ PRESS CTRL+A+D
 ./iniminer-linux-x64 --pool stratum+tcp://YOUR_WALLET_ADDRESS.Worker001@pool-core-testnet.inichain.com:32672
 ```
 Replace ur YOUR_WALLET_ADDRESS with ur actual Metamask Address
+
+
+
 
